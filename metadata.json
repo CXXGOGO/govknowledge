@@ -1,0 +1,5 @@
+{
+  "name": "GovKnowledge",
+  "description": "A static, frontend-only knowledge base management system with a clean, official government-style interface.",
+  "requestFramePermissions": []
+}
